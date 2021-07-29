@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "2 2",
+        " 1 ",
+        "333"
+    ],
+    "key": {
+        "1": {
+            "item": "string"
+        },
+        "2": {
+            "item": "feather"
+        },
+        "3": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

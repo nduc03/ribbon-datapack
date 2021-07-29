@@ -1,0 +1,4 @@
+gamerule sendCommandFeedback false
+execute unless entity @s[nbt={Inventory: [{Slot: 103b}]}] run clear @s carrot_on_a_stick{CustomModelData: 11} 1
+execute unless entity @s[nbt={Inventory: [{Slot: 103b}]}] run replaceitem entity @s armor.head shears{AttributeModifiers: [{AttributeName: "generic.armor", Amount: 3, Slot: head, Name: "generic.armor", UUID: [I; -121626, 12346, 16573, -24692]}], display: {Name: '[{"text":"Sieben\'s Ribbon","italic":true,"bold":true,"color":"dark_green"}]', Lore: ['[{"text":"only for Sieben","color":"aqua","italic": false}]']}, HideFlags: 127, CustomModelData: 11}
+playsound item.armor.equip_leather master @s ~ ~ ~ 100
