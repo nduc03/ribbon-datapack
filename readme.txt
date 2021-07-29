@@ -10,4 +10,4 @@ Cách đeo nơ:
 
 - Vài điểm lưu ý:
 + Để tắt datapack hãy nên dùng '/function run:reset' sẽ tốt hơn là disable datapack.
-+ Lỡ dùng '/function run:reset' rồi mà muốn bật lại datapack thì chỉ cần '/reload'.
++ '/function run:reset' sẽ tự động disable datapack, vì thế khi bật lại hãy dùng command '/datapack enable "file/Ribbon Datapack"'.
