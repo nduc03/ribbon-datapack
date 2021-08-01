@@ -14,5 +14,5 @@
 
 ### Vài điểm lưu ý
 
-+ Để tắt datapack hãy nên dùng <ins>**/function run:reset**</ins> sẽ tốt hơn là disable datapack.
-+ <ins>**/function run:reset**</ins> sẽ tự động disable datapack, vì thế khi bật lại hãy dùng command <ins>**/datapack enable "file/Ribbon_Datapack"**</ins>.
++ Để tắt datapack hãy nên dùng ```/function run:reset``` sẽ tốt hơn là disable datapack.
++ ```/function run:reset``` sẽ tự động disable datapack, vì thế khi bật lại hãy dùng command ```/datapack enable "file/Ribbon_Datapack"```.
